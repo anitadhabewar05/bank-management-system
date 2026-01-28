@@ -4,10 +4,15 @@ Bank-Management-System
 Bank Management System in Java 
 
 Tool and Technologies Used:
+
 -Java
+
 -MySQL
+
 -Eclipse
+
 -iText Java library(PDF Creation)
+
 <img width="786" height="493" alt="8_Cheque_Deposit" src="https://github.com/user-attachments/assets/fa87e154-afe5-40cb-aa6e-6a428f8fb390" /> 
 
 <img width="786" height="493" alt="8_Cheque_Deposit" src="https://github.com/user-attachments/assets/2ba62788-1573-4075-9735-be59d8f93578" />
